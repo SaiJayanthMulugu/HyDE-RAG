@@ -1,4 +1,3 @@
-﻿streamlit
 python-dotenv
 langchain-groq
 langchain-huggingface
@@ -11,5 +10,5 @@ pymupdf
 torch
 numpy
 sentence-transformers
-scikit-learn
-rank-bm25
+fastapi
+uvicorn
