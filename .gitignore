@@ -1,0 +1,11 @@
+﻿.env
+.env.local
+.env.*.local
+backend/.env
+hyde-rag/.env
+*.pyc
+__pycache__/
+.DS_Store
+.vscode/
+*.log
+document_chunks.txt
